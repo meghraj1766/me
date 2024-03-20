@@ -81,6 +81,7 @@ class apb_driver extends uvm_driver#(apb_pkt);
     			//this.vif.dri_cb.PENABLE <= 0;
   	
 	endtask
-
+//////
+	////
 endclass
 
