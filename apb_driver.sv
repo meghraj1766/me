@@ -86,6 +86,9 @@ class apb_driver extends uvm_driver#(apb_pkt);
 	////
 endclass
 
+<<<<<<< HEAD
 //hello
 ////////////////////////////////////------------------------------------------///////////////////////
 
+=======
+>>>>>>> parent of 6c24975 (updated the driver)
